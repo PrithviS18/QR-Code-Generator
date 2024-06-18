@@ -1,0 +1,17 @@
+{
+  "name": "prithvi",
+  "version": "1.0.0",
+  "description": "Learning npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23",
+    "qrcode": "^1.5.3",
+    "sillyname": "^0.1.0"
+  }
+}
